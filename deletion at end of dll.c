@@ -1,4 +1,4 @@
-// insertion in the beginning doubly linked list
+// deletion from the end doubly linked list
 
 //required libraries
 #include <stdio.h>
