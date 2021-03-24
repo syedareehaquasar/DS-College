@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-24T08:53:51.366Z" agent="5.0 (X11)" etag="25vzZEHps4HWo9xKrTUb" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-24T08:57:48.178Z" agent="5.0 (X11)" etag="VZP48iTt_QBFrv7cPHvx" version="14.5.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2747" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -140,20 +140,23 @@
             <mxPoint x="1075" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jALLhM-oPaZFguHTRYFe-62" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="jALLhM-oPaZFguHTRYFe-57" target="jALLhM-oPaZFguHTRYFe-60">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jALLhM-oPaZFguHTRYFe-62" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="jALLhM-oPaZFguHTRYFe-57" target="jALLhM-oPaZFguHTRYFe-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="420" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jALLhM-oPaZFguHTRYFe-57" value="class" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="270" y="500" width="150" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="jALLhM-oPaZFguHTRYFe-95" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.646;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="jALLhM-oPaZFguHTRYFe-60" target="jALLhM-oPaZFguHTRYFe-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jALLhM-oPaZFguHTRYFe-95" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.646;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" target="jALLhM-oPaZFguHTRYFe-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="320" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="jALLhM-oPaZFguHTRYFe-102" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="jALLhM-oPaZFguHTRYFe-60" target="jALLhM-oPaZFguHTRYFe-75">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jALLhM-oPaZFguHTRYFe-60" value="Report card" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="230" y="320" width="150" height="100" as="geometry" />
+        <mxCell id="jALLhM-oPaZFguHTRYFe-102" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" target="jALLhM-oPaZFguHTRYFe-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="370" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jALLhM-oPaZFguHTRYFe-68" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="jALLhM-oPaZFguHTRYFe-85" target="jALLhM-oPaZFguHTRYFe-57">
           <mxGeometry relative="1" as="geometry">
@@ -174,10 +177,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jALLhM-oPaZFguHTRYFe-66" value="&lt;div&gt;instructor&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rotation=-30;" vertex="1" parent="1">
-          <mxGeometry x="140" y="730" width="130" height="60" as="geometry" />
+          <mxGeometry x="150" y="740" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jALLhM-oPaZFguHTRYFe-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="jALLhM-oPaZFguHTRYFe-73" target="jALLhM-oPaZFguHTRYFe-60">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jALLhM-oPaZFguHTRYFe-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="jALLhM-oPaZFguHTRYFe-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jALLhM-oPaZFguHTRYFe-73" value="gpa/ cgpa" style="ellipse;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="336" width="100" height="68" as="geometry" />
@@ -211,6 +216,23 @@
         </object>
         <mxCell id="jALLhM-oPaZFguHTRYFe-101" value="subjects" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1010" y="620" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jALLhM-oPaZFguHTRYFe-105" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" target="jALLhM-oPaZFguHTRYFe-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="432" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jALLhM-oPaZFguHTRYFe-109" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="jALLhM-oPaZFguHTRYFe-106" target="jALLhM-oPaZFguHTRYFe-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jALLhM-oPaZFguHTRYFe-106" value="belongs to" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="510" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jALLhM-oPaZFguHTRYFe-108" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeColor=#000000;" edge="1" parent="1" source="jALLhM-oPaZFguHTRYFe-107" target="jALLhM-oPaZFguHTRYFe-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jALLhM-oPaZFguHTRYFe-107" value="belongs to" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="322" width="150" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
